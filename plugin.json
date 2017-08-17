@@ -1,0 +1,12 @@
+{
+  "ID":"d9cd578088f514e5bx7e851f2289z7e3",
+  "ActionKeyword":"hdbe",
+  "Name":"HDB_Resale_eApp",
+  "Description":"HDB Resale eAppointment",
+  "Author":"nevermoi",
+  "Version":"0.0.1",
+  "Language":"python",
+  "Website":"https://github.com/shuson/wox-plugin-hdbeapp",
+  "IcoPath": "img\\hdb.png",
+  "ExecuteFileName":"hdb2app.py"
+}
