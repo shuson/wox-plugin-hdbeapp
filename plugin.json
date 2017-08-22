@@ -7,6 +7,6 @@
   "Version":"0.0.1",
   "Language":"python",
   "Website":"https://github.com/shuson/wox-plugin-hdbeapp",
-  "IcoPath": "img\\hdb.png",
-  "ExecuteFileName":"hdb2app.py"
+  "IcoPath": "img\\hdbeapp.png",
+  "ExecuteFileName":"hdbeapp.py"
 }
